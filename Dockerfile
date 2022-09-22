@@ -1,2 +1,2 @@
 FROM httpd
-RUN  /usr/local/apache2/htdocs/
+RUN  index.html /usr/local/apache2/htdocs/
